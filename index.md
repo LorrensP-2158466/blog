@@ -1,4 +1,5 @@
 ---
+layout: home
 title: "Home"
 ---
 Hello, I'm Lorrens, currently a master's student at [UHasselt](https://www.uhasselt.be/en).

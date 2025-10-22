@@ -2,3 +2,9 @@ theme: minima
 title: Lorrens' blog
 description: This is where I share stuff I work on or find interesting
 author: Lorrens Pantelis
+url: ""
+baseurl: ""
+sass:
+  style: compressed
+  load_paths:
+    - _sass
