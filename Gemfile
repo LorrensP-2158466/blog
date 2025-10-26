@@ -2,7 +2,5 @@
 
 source "https://rubygems.org"
 
-# Gemfile
-gem "jekyll"
-gem "minima", :github => "jekyll/minima"
-
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme"

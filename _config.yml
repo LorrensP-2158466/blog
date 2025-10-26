@@ -1,6 +1,10 @@
-theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+
 minima:
   skin: auto
+
 title: Lorrens' blog
 description: This is where I share stuff I work on or find interesting
 author: Lorrens Pantelis
