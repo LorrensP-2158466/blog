@@ -4,5 +4,5 @@ source "https://rubygems.org"
 
 # Gemfile
 gem "jekyll"
-gem "minima"
+gem "minima", :github => "jekyll/minima"
 
